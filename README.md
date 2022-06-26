@@ -1,5 +1,5 @@
 # Lawbot(website)
-The goal of this website will be to provide information simple, latest, relevant, and assembled in a simple format.
+The goal of this website will be to provide traffic-law information simple, latest, relevant, and assembled in a simple format.
 
 
 
