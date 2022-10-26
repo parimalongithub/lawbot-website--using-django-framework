@@ -1,5 +1,7 @@
 # Lawbot(website)
 The goal of this website will be to provide traffic-law information simple, latest, relevant, and assembled in a simple format.
+
+
 This website build by using technologies - django, html,css, bootstrap
 
 
